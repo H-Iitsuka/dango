@@ -1,6 +1,7 @@
 # Dango
 
 This is your story.
+TEST_ODANO
 
 ## Run in development mode
 
